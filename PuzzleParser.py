@@ -4,7 +4,7 @@ import re
 
 class CSP:
     def __init__(self):
-        self.domain = []
+        self.headers = []
         self.nodes = []
         self.constraints = []
         self.goal = None
@@ -44,6 +44,7 @@ class PuzzleParser:
 
     def parsePuzzle(self, puzzle):
         csp = CSP()
+        csp.headers = parseHeaders(puzzle)
         #preprocessing
         puzzle = puzzle.lower()
         replacers = [("jan ", "january "), ("feb ", "february "), ("sep ", "september "), ("dec ", "december "), ("swedish ", "swede ")]
@@ -53,7 +54,7 @@ class PuzzleParser:
 
         months = ("january|february|march|april|may|june|july|august|september|october|november|december")
         puzzle = re.sub(rf"\bin\s+(?=({months})\b)", "", puzzle) # remove 'in' before months 
-        #parse domains
+        #parse keys
         splits = puzzle.split("## clues:\n")[0].split('\n')
         splits.pop(0)
         for split in splits:
@@ -246,3 +247,27 @@ def findKeyInClue(clue, key):
         return l
 
     return -1
+
+def parseHeaders(puzzle):
+    res = []
+    firstPart = puzzle.split("## Clues:\n1")[0]
+    lines = firstPart.split("\n")
+    lines.pop(0)
+    for line in lines:
+        headerMatch = re.search(r"\b\w+(?=:)", line)
+        domain = {}
+        if headerMatch is not None and headerMatch.groups() is not None:
+            keys = []
+            l = line.split("`")
+            for i in range(len(l)):
+                if i%2 ==1:
+                    keys.append(l[i])
+            domain[headerMatch.group()] = keys
+            res.append(domain)
+    return res
+        
+            
+    
+
+p = "There are 2 houses, numbered 1 to 2 from left to right, as seen from across the street. Each house is occupied by a different person. Each house has a unique attribute for each of the following characteristics:\n - Each person has a unique name: `Eric`, `Arnold`\n - They all have a unique favorite flower: `carnations`, `daffodils`\n - Each person has a favorite color: `red`, `yellow`\n - People have unique heights: `very short`, `short`\n\n## Clues:\n1. The person who loves a bouquet of daffodils is in the first house.\n2. The person who is very short is not in the first house.\n3. The person whose favorite color is red is in the first house.\n4. Eric is not in the second house.\n"
+print(parseHeaders(puzzle=p))
