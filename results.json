@@ -9,24 +9,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "orange",
         "turtle"
       ],
       [
         "2",
-        "mallory",
+        "Mallory",
         "blue",
         "cat"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "green",
         "dog"
       ]
     ],
-    "steps": 10
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-002": {
     "headers": [
@@ -38,24 +41,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "blue",
         "dog"
       ],
       [
         "2",
-        "niaj",
+        "Niaj",
         "red",
         "fish"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
         "bird"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-003": {
     "headers": [
@@ -67,24 +73,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "purple",
         "hamster"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "orange",
         "rabbit"
       ],
       [
         "3",
-        "mallory",
+        "Mallory",
         "green",
         "cat"
       ]
     ],
-    "steps": 9
+    "steps": 5,
+    "forward_check_steps": 5,
+    "decision_steps": 0,
+    "num_solutions": 1
   },
   "test-3x3-004": {
     "headers": [
@@ -96,24 +105,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "",
         "white",
-        "rabbit"
+        "cat"
       ],
       [
         "2",
-        "ivan",
+        "Ivan",
         "red",
-        "turtle"
+        "rabbit"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "orange",
-        "cat"
+        "turtle"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-005": {
     "headers": [
@@ -125,24 +137,27 @@
     "grid": [
       [
         "1",
-        "ivan",
+        "Ivan",
         "blue",
         "fish"
       ],
       [
         "2",
-        "mallory",
-        "white",
+        "Mallory",
+        "green",
         "turtle"
       ],
       [
         "3",
-        "unknown_name_1",
-        "green",
+        "",
+        "white",
         "cat"
       ]
     ],
-    "steps": 11
+    "steps": 7,
+    "forward_check_steps": 5,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-006": {
     "headers": [
@@ -154,24 +169,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
-        "purple",
-        "rabbit"
+        "Mallory",
+        "white",
+        "cat"
       ],
       [
         "2",
-        "mallory",
-        "white",
+        "",
+        "purple",
         "dog"
       ],
       [
         "3",
-        "grace",
+        "Grace",
         "yellow",
-        "cat"
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 3,
+    "decision_steps": 3,
+    "num_solutions": 12
   },
   "test-3x3-007": {
     "headers": [
@@ -183,24 +201,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "red",
         "cat"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "yellow",
-        "turtle"
+        "dog"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "blue",
-        "dog"
+        "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 3,
+    "decision_steps": 3,
+    "num_solutions": 12
   },
   "test-3x3-008": {
     "headers": [
@@ -212,24 +233,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "yellow",
         "fish"
       ],
       [
         "2",
-        "grace",
+        "Grace",
         "blue",
-        "rabbit"
+        "hamster"
       ],
       [
         "3",
-        "eve",
+        "Eve",
         "white",
-        "hamster"
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-009": {
     "headers": [
@@ -241,24 +265,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "",
         "white",
         "rabbit"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "purple",
-        "fish"
+        "bird"
       ],
       [
         "3",
-        "judy",
+        "Judy",
         "orange",
-        "bird"
+        "fish"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-010": {
     "headers": [
@@ -270,24 +297,27 @@
     "grid": [
       [
         "1",
-        "eve",
+        "Eve",
         "red",
         "rabbit"
       ],
       [
         "2",
-        "ivan",
+        "Ivan",
         "orange",
         "dog"
       ],
       [
         "3",
-        "mallory",
+        "Mallory",
         "green",
         "bird"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-011": {
     "headers": [
@@ -299,24 +329,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "blue",
         "cat"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "red",
         "fish"
       ],
       [
         "3",
-        "niaj",
+        "Niaj",
         "purple",
         "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-012": {
     "headers": [
@@ -328,24 +361,27 @@
     "grid": [
       [
         "1",
-        "david",
-        "yellow",
+        "David",
+        "blue",
         "dog"
       ],
       [
         "2",
-        "niaj",
-        "blue",
+        "Niaj",
+        "yellow",
         "bird"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
         "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-013": {
     "headers": [
@@ -357,24 +393,27 @@
     "grid": [
       [
         "1",
-        "frank",
+        "Frank",
         "orange",
         "bird"
       ],
       [
         "2",
-        "grace",
+        "Grace",
         "blue",
-        "rabbit"
+        "dog"
       ],
       [
         "3",
-        "bob",
+        "Bob",
         "purple",
-        "dog"
+        "rabbit"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-014": {
     "headers": [
@@ -386,24 +425,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "blue",
         "rabbit"
       ],
       [
         "2",
-        "ivan",
+        "Ivan",
         "red",
-        "turtle"
+        "fish"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
-        "fish"
+        "turtle"
       ]
     ],
-    "steps": 10
+    "steps": 7,
+    "forward_check_steps": 5,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-015": {
     "headers": [
@@ -415,24 +457,27 @@
     "grid": [
       [
         "1",
-        "heidi",
+        "Heidi",
         "orange",
         "hamster"
       ],
       [
         "2",
-        "unknown_name_1",
+        "Niaj",
         "purple",
-        "bird"
+        "fish"
       ],
       [
         "3",
-        "niaj",
+        "",
         "white",
-        "fish"
+        "bird"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-016": {
     "headers": [
@@ -444,24 +489,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "purple",
         "hamster"
       ],
       [
         "2",
-        "mallory",
+        "Mallory",
         "blue",
         "cat"
       ],
       [
         "3",
-        "grace",
+        "Grace",
         "yellow",
         "dog"
       ]
     ],
-    "steps": 13
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-017": {
     "headers": [
@@ -473,24 +521,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Grace",
         "red",
         "cat"
       ],
       [
         "2",
-        "mallory",
+        "Mallory",
         "white",
         "rabbit"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
         "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-018": {
     "headers": [
@@ -502,24 +553,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_2",
+        "",
         "yellow",
         "bird"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "green",
         "turtle"
       ],
       [
         "3",
-        "carol",
+        "Carol",
         "purple",
         "rabbit"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-019": {
     "headers": [
@@ -531,24 +585,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Bob",
         "orange",
         "hamster"
       ],
       [
         "2",
-        "bob",
+        "Grace",
         "yellow",
         "fish"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "green",
         "cat"
       ]
     ],
-    "steps": 10
+    "steps": 7,
+    "forward_check_steps": 6,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-020": {
     "headers": [
@@ -560,24 +617,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Grace",
         "green",
         "turtle"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "purple",
         "hamster"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "yellow",
         "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 5,
+    "forward_check_steps": 5,
+    "decision_steps": 0,
+    "num_solutions": 1
   },
   "test-3x3-021": {
     "headers": [
@@ -589,24 +649,27 @@
     "grid": [
       [
         "1",
-        "judy",
+        "Judy",
         "red",
         "cat"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "blue",
         "bird"
       ],
       [
         "3",
-        "eve",
+        "Eve",
         "purple",
         "turtle"
       ]
     ],
-    "steps": 10
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-022": {
     "headers": [
@@ -618,24 +681,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "Bob",
         "purple",
         "bird"
       ],
       [
         "2",
-        "judy",
+        "Judy",
         "green",
         "dog"
       ],
       [
         "3",
-        "bob",
+        "",
         "white",
         "cat"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-023": {
     "headers": [
@@ -647,24 +713,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "white",
         "dog"
       ],
       [
         "2",
-        "eve",
+        "Eve",
         "blue",
         "rabbit"
       ],
       [
         "3",
-        "david",
+        "David",
         "orange",
         "hamster"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 6,
+    "decision_steps": 0,
+    "num_solutions": 1
   },
   "test-3x3-024": {
     "headers": [
@@ -676,24 +745,27 @@
     "grid": [
       [
         "1",
-        "frank",
+        "Frank",
         "blue",
         "rabbit"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "red",
-        "fish"
+        "cat"
       ],
       [
         "3",
-        "judy",
+        "Judy",
         "orange",
-        "cat"
+        "fish"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-025": {
     "headers": [
@@ -705,24 +777,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "red",
-        "hamster"
+        "dog"
       ],
       [
         "2",
-        "ivan",
+        "Ivan",
         "blue",
         "bird"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "orange",
-        "dog"
+        "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-026": {
     "headers": [
@@ -734,24 +809,27 @@
     "grid": [
       [
         "1",
-        "ivan",
+        "Ivan",
         "green",
         "dog"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "red",
         "cat"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "yellow",
         "rabbit"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 6,
+    "decision_steps": 0,
+    "num_solutions": 1
   },
   "test-3x3-027": {
     "headers": [
@@ -763,24 +841,27 @@
     "grid": [
       [
         "1",
-        "frank",
+        "Frank",
         "white",
         "hamster"
       ],
       [
         "2",
-        "ivan",
+        "Ivan",
         "purple",
         "bird"
       ],
       [
         "3",
-        "niaj",
+        "Niaj",
         "yellow",
         "cat"
       ]
     ],
-    "steps": 12
+    "steps": 7,
+    "forward_check_steps": 6,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-028": {
     "headers": [
@@ -792,24 +873,27 @@
     "grid": [
       [
         "1",
-        "eve",
+        "Eve",
         "yellow",
         "rabbit"
       ],
       [
         "2",
-        "heidi",
+        "Heidi",
         "purple",
         "dog"
       ],
       [
         "3",
-        "frank",
+        "Frank",
         "orange",
         "bird"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-029": {
     "headers": [
@@ -821,24 +905,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "",
         "orange",
         "dog"
       ],
       [
         "2",
-        "ivan",
+        "Ivan",
         "purple",
         "cat"
       ],
       [
         "3",
-        "grace",
+        "Grace",
         "green",
         "turtle"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 6,
+    "decision_steps": 0,
+    "num_solutions": 1
   },
   "test-3x3-030": {
     "headers": [
@@ -850,24 +937,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Bob",
         "purple",
         "turtle"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "yellow",
         "bird"
       ],
       [
         "3",
-        "bob",
+        "Grace",
         "green",
         "fish"
       ]
     ],
-    "steps": 9
+    "steps": 7,
+    "forward_check_steps": 6,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-031": {
     "headers": [
@@ -879,24 +969,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "green",
-        "rabbit"
+        "bird"
       ],
       [
         "2",
-        "grace",
+        "Grace",
         "white",
         "fish"
       ],
       [
         "3",
-        "niaj",
+        "Niaj",
         "purple",
-        "bird"
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 3,
+    "decision_steps": 3,
+    "num_solutions": 12
   },
   "test-3x3-032": {
     "headers": [
@@ -908,24 +1001,27 @@
     "grid": [
       [
         "1",
-        "mallory",
+        "Mallory",
         "yellow",
         "fish"
       ],
       [
         "2",
-        "frank",
+        "Frank",
         "green",
         "dog"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
         "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 3
   },
   "test-3x3-033": {
     "headers": [
@@ -937,24 +1033,27 @@
     "grid": [
       [
         "1",
-        "david",
+        "David",
         "red",
-        "fish"
+        "bird"
       ],
       [
         "2",
-        "heidi",
+        "Heidi",
         "blue",
         "rabbit"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "green",
-        "bird"
+        "fish"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-034": {
     "headers": [
@@ -966,24 +1065,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "blue",
         "cat"
       ],
       [
         "2",
-        "carol",
+        "Carol",
         "red",
         "fish"
       ],
       [
         "3",
-        "bob",
+        "Bob",
         "green",
         "turtle"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-035": {
     "headers": [
@@ -995,24 +1097,27 @@
     "grid": [
       [
         "1",
-        "niaj",
+        "Niaj",
         "red",
         "cat"
       ],
       [
         "2",
-        "heidi",
-        "blue",
-        "dog"
+        "Bob",
+        "purple",
+        "turtle"
       ],
       [
         "3",
-        "bob",
-        "purple",
-        "turtle"
+        "Heidi",
+        "blue",
+        "dog"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-036": {
     "headers": [
@@ -1024,24 +1129,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "purple",
-        "rabbit"
-      ],
-      [
-        "2",
-        "unknown_name_1",
-        "white",
         "bird"
       ],
       [
+        "2",
+        "",
+        "white",
+        "rabbit"
+      ],
+      [
         "3",
-        "ivan",
+        "Ivan",
         "orange",
         "dog"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 3,
+    "decision_steps": 3,
+    "num_solutions": 8
   },
   "test-3x3-037": {
     "headers": [
@@ -1053,24 +1161,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "purple",
         "dog"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "yellow",
         "turtle"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "orange",
         "cat"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 3
   },
   "test-3x3-038": {
     "headers": [
@@ -1082,24 +1193,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Grace",
         "purple",
         "fish"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "blue",
         "bird"
       ],
       [
         "3",
-        "frank",
+        "Frank",
         "orange",
         "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-039": {
     "headers": [
@@ -1111,24 +1225,27 @@
     "grid": [
       [
         "1",
-        "grace",
-        "white",
+        "Grace",
+        "orange",
         "dog"
       ],
       [
         "2",
-        "unknown_name_1",
-        "yellow",
+        "",
+        "white",
         "bird"
       ],
       [
         "3",
-        "judy",
-        "orange",
+        "Judy",
+        "yellow",
         "hamster"
       ]
     ],
-    "steps": 10
+    "steps": 7,
+    "forward_check_steps": 5,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-040": {
     "headers": [
@@ -1140,24 +1257,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "orange",
         "fish"
       ],
       [
         "2",
-        "mallory",
+        "Mallory",
         "white",
         "rabbit"
       ],
       [
         "3",
-        "bob",
+        "Bob",
         "yellow",
         "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-041": {
     "headers": [
@@ -1169,24 +1289,27 @@
     "grid": [
       [
         "1",
-        "david",
+        "David",
         "yellow",
         "cat"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "blue",
         "dog"
       ],
       [
         "3",
-        "judy",
+        "Judy",
         "purple",
         "fish"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-042": {
     "headers": [
@@ -1198,24 +1321,27 @@
     "grid": [
       [
         "1",
-        "frank",
+        "Frank",
         "purple",
         "bird"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "red",
-        "hamster"
+        "fish"
       ],
       [
         "3",
-        "grace",
+        "Grace",
         "green",
-        "fish"
+        "hamster"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-043": {
     "headers": [
@@ -1227,24 +1353,27 @@
     "grid": [
       [
         "1",
-        "niaj",
+        "Niaj",
         "orange",
         "bird"
       ],
       [
         "2",
-        "carol",
+        "Carol",
         "yellow",
         "cat"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "red",
         "hamster"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-044": {
     "headers": [
@@ -1256,24 +1385,27 @@
     "grid": [
       [
         "1",
-        "eve",
-        "green",
-        "dog"
+        "Bob",
+        "purple",
+        "hamster"
       ],
       [
         "2",
-        "carol",
+        "Carol",
         "yellow",
         "turtle"
       ],
       [
         "3",
-        "bob",
-        "purple",
-        "hamster"
+        "Eve",
+        "green",
+        "dog"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-045": {
     "headers": [
@@ -1285,24 +1417,27 @@
     "grid": [
       [
         "1",
-        "eve",
+        "Eve",
         "purple",
         "turtle"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "green",
         "rabbit"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "white",
         "fish"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-046": {
     "headers": [
@@ -1314,24 +1449,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "orange",
-        "rabbit"
+        "fish"
       ],
       [
         "2",
-        "frank",
+        "Frank",
         "purple",
-        "turtle"
+        "rabbit"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "white",
-        "fish"
+        "turtle"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-047": {
     "headers": [
@@ -1343,24 +1481,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "",
         "red",
         "dog"
       ],
       [
         "2",
-        "unknown_name_1",
+        "Carol",
         "blue",
         "cat"
       ],
       [
         "3",
-        "bob",
+        "Bob",
         "green",
         "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 3
   },
   "test-3x3-048": {
     "headers": [
@@ -1372,24 +1513,27 @@
     "grid": [
       [
         "1",
-        "judy",
+        "Judy",
         "white",
         "bird"
       ],
       [
         "2",
-        "grace",
-        "purple",
+        "Grace",
+        "green",
         "dog"
       ],
       [
         "3",
-        "bob",
-        "green",
+        "Bob",
+        "purple",
         "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-049": {
     "headers": [
@@ -1401,24 +1545,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "green",
-        "hamster"
+        "bird"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "orange",
         "fish"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "blue",
-        "bird"
+        "hamster"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-050": {
     "headers": [
@@ -1430,24 +1577,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "",
         "blue",
-        "dog"
+        "bird"
       ],
       [
         "2",
-        "carol",
+        "Carol",
         "red",
         "rabbit"
       ],
       [
         "3",
-        "niaj",
+        "Niaj",
         "orange",
-        "bird"
+        "dog"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-051": {
     "headers": [
@@ -1459,24 +1609,27 @@
     "grid": [
       [
         "1",
-        "frank",
+        "Frank",
         "purple",
         "cat"
       ],
       [
         "2",
-        "carol",
-        "yellow",
+        "Carol",
+        "white",
         "bird"
       ],
       [
         "3",
-        "bob",
-        "white",
+        "Bob",
+        "yellow",
         "fish"
       ]
     ],
-    "steps": 10
+    "steps": 7,
+    "forward_check_steps": 5,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-052": {
     "headers": [
@@ -1488,24 +1641,27 @@
     "grid": [
       [
         "1",
-        "niaj",
+        "Niaj",
         "orange",
         "bird"
       ],
       [
         "2",
-        "carol",
+        "Carol",
         "green",
         "rabbit"
       ],
       [
         "3",
-        "judy",
+        "Judy",
         "purple",
         "fish"
       ]
     ],
-    "steps": 14
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-053": {
     "headers": [
@@ -1517,24 +1673,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "white",
         "rabbit"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "orange",
         "hamster"
       ],
       [
         "3",
-        "judy",
+        "Judy",
         "blue",
         "bird"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-054": {
     "headers": [
@@ -1546,24 +1705,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "white",
         "cat"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "purple",
         "fish"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "yellow",
         "turtle"
       ]
     ],
-    "steps": 13
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-055": {
     "headers": [
@@ -1575,24 +1737,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "white",
-        "rabbit"
+        "bird"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "blue",
         "cat"
       ],
       [
         "3",
-        "grace",
+        "Grace",
         "purple",
-        "bird"
+        "rabbit"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-056": {
     "headers": [
@@ -1604,24 +1769,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Grace",
         "orange",
         "fish"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "white",
         "hamster"
       ],
       [
         "3",
-        "unknown_name_2",
+        "",
         "red",
         "bird"
       ]
     ],
-    "steps": 12
+    "steps": 7,
+    "forward_check_steps": 5,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-057": {
     "headers": [
@@ -1633,24 +1801,27 @@
     "grid": [
       [
         "1",
-        "ivan",
+        "Ivan",
         "purple",
         "cat"
       ],
       [
         "2",
-        "frank",
+        "Frank",
         "blue",
         "fish"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "yellow",
         "hamster"
       ]
     ],
-    "steps": 11
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-058": {
     "headers": [
@@ -1662,24 +1833,27 @@
     "grid": [
       [
         "1",
-        "eve",
-        "yellow",
-        "rabbit"
-      ],
-      [
-        "2",
-        "bob",
+        "Bob",
         "orange",
         "cat"
       ],
       [
-        "3",
-        "frank",
-        "blue",
+        "2",
+        "Frank",
+        "yellow",
         "hamster"
+      ],
+      [
+        "3",
+        "Eve",
+        "blue",
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-059": {
     "headers": [
@@ -1691,24 +1865,27 @@
     "grid": [
       [
         "1",
-        "david",
+        "David",
         "red",
         "dog"
       ],
       [
         "2",
-        "eve",
+        "Eve",
         "white",
         "fish"
       ],
       [
         "3",
-        "mallory",
+        "Mallory",
         "blue",
         "turtle"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-060": {
     "headers": [
@@ -1720,24 +1897,27 @@
     "grid": [
       [
         "1",
-        "heidi",
+        "Heidi",
         "red",
-        "rabbit"
+        "bird"
       ],
       [
         "2",
-        "niaj",
+        "Niaj",
         "green",
         "turtle"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
-        "bird"
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-061": {
     "headers": [
@@ -1749,24 +1929,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "Grace",
         "blue",
         "turtle"
       ],
       [
         "2",
-        "grace",
+        "",
         "red",
         "rabbit"
       ],
       [
         "3",
-        "ivan",
+        "Ivan",
         "orange",
         "bird"
       ]
     ],
-    "steps": 10
+    "steps": 7,
+    "forward_check_steps": 6,
+    "decision_steps": 1,
+    "num_solutions": 3
   },
   "test-3x3-062": {
     "headers": [
@@ -1778,24 +1961,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "Ivan",
         "purple",
         "hamster"
       ],
       [
         "2",
-        "ivan",
+        "",
         "orange",
         "dog"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "green",
         "fish"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-063": {
     "headers": [
@@ -1807,24 +1993,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "",
         "blue",
         "hamster"
       ],
       [
         "2",
-        "grace",
+        "Grace",
         "yellow",
         "rabbit"
       ],
       [
         "3",
-        "mallory",
+        "Mallory",
         "orange",
         "turtle"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-064": {
     "headers": [
@@ -1836,24 +2025,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "red",
-        "hamster"
-      ],
-      [
-        "2",
-        "unknown_name_1",
-        "orange",
         "fish"
       ],
       [
+        "2",
+        "",
+        "orange",
+        "hamster"
+      ],
+      [
         "3",
-        "david",
+        "David",
         "green",
         "dog"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-065": {
     "headers": [
@@ -1865,24 +2057,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_2",
+        "",
         "purple",
-        "rabbit"
+        "hamster"
       ],
       [
         "2",
-        "niaj",
+        "Niaj",
         "yellow",
         "bird"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "red",
-        "hamster"
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-066": {
     "headers": [
@@ -1894,24 +2089,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_2",
+        "",
         "orange",
         "bird"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "green",
         "dog"
       ],
       [
         "3",
-        "bob",
+        "Bob",
         "purple",
         "hamster"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-067": {
     "headers": [
@@ -1923,24 +2121,27 @@
     "grid": [
       [
         "1",
-        "heidi",
+        "Heidi",
         "orange",
         "hamster"
       ],
       [
         "2",
-        "frank",
+        "Bob",
         "blue",
-        "dog"
+        "fish"
       ],
       [
         "3",
-        "bob",
+        "Frank",
         "green",
-        "fish"
+        "dog"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-068": {
     "headers": [
@@ -1952,24 +2153,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Alice",
+        "orange",
+        "dog"
+      ],
+      [
+        "2",
+        "Bob",
         "red",
         "hamster"
       ],
       [
-        "2",
-        "ivan",
+        "3",
+        "Ivan",
         "white",
         "turtle"
-      ],
-      [
-        "3",
-        "alice",
-        "orange",
-        "dog"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-069": {
     "headers": [
@@ -1981,24 +2185,27 @@
     "grid": [
       [
         "1",
-        "eve",
-        "yellow",
+        "Frank",
+        "red",
         "fish"
       ],
       [
         "2",
-        "frank",
-        "red",
+        "Eve",
+        "yellow",
         "hamster"
       ],
       [
         "3",
-        "grace",
+        "Grace",
         "blue",
         "cat"
       ]
     ],
-    "steps": 13
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-070": {
     "headers": [
@@ -2010,24 +2217,27 @@
     "grid": [
       [
         "1",
-        "eve",
+        "Eve",
         "white",
         "bird"
       ],
       [
         "2",
-        "mallory",
+        "Mallory",
         "purple",
         "dog"
       ],
       [
         "3",
-        "bob",
+        "Bob",
         "red",
         "cat"
       ]
     ],
-    "steps": 9
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-071": {
     "headers": [
@@ -2039,24 +2249,27 @@
     "grid": [
       [
         "1",
-        "grace",
+        "Grace",
         "orange",
         "turtle"
       ],
       [
         "2",
-        "judy",
+        "Judy",
         "yellow",
         "bird"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "red",
         "fish"
       ]
     ],
-    "steps": 13
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-072": {
     "headers": [
@@ -2068,24 +2281,27 @@
     "grid": [
       [
         "1",
-        "alice",
+        "Alice",
         "yellow",
         "fish"
       ],
       [
         "2",
-        "unknown_name_2",
+        "",
         "white",
-        "rabbit"
+        "cat"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "red",
-        "cat"
+        "rabbit"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-073": {
     "headers": [
@@ -2097,24 +2313,27 @@
     "grid": [
       [
         "1",
-        "grace",
-        "orange",
-        "fish"
+        "Grace",
+        "green",
+        "rabbit"
       ],
       [
         "2",
-        "judy",
+        "Judy",
         "blue",
         "cat"
       ],
       [
         "3",
-        "unknown_name_1",
-        "green",
-        "rabbit"
+        "",
+        "orange",
+        "fish"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-074": {
     "headers": [
@@ -2126,24 +2345,27 @@
     "grid": [
       [
         "1",
-        "carol",
+        "Carol",
         "blue",
         "rabbit"
       ],
       [
         "2",
-        "mallory",
+        "Mallory",
         "green",
         "bird"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "orange",
         "cat"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-075": {
     "headers": [
@@ -2155,24 +2377,27 @@
     "grid": [
       [
         "1",
-        "grace",
-        "red",
-        "rabbit"
-      ],
-      [
-        "2",
-        "frank",
+        "Frank",
         "blue",
         "cat"
       ],
       [
+        "2",
+        "Grace",
+        "red",
+        "rabbit"
+      ],
+      [
         "3",
-        "bob",
+        "Bob",
         "white",
         "fish"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-076": {
     "headers": [
@@ -2184,24 +2409,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "orange",
-        "turtle"
+        "bird"
       ],
       [
         "2",
-        "frank",
+        "Frank",
         "red",
         "dog"
       ],
       [
         "3",
-        "eve",
+        "Eve",
         "white",
-        "bird"
+        "turtle"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-077": {
     "headers": [
@@ -2213,24 +2441,27 @@
     "grid": [
       [
         "1",
-        "judy",
-        "red",
-        "turtle"
-      ],
-      [
-        "2",
-        "eve",
+        "Judy",
         "green",
         "bird"
       ],
       [
+        "2",
+        "Eve",
+        "red",
+        "turtle"
+      ],
+      [
         "3",
-        "bob",
+        "Bob",
         "purple",
         "cat"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-078": {
     "headers": [
@@ -2242,24 +2473,27 @@
     "grid": [
       [
         "1",
-        "ivan",
+        "Ivan",
         "green",
         "hamster"
       ],
       [
         "2",
-        "carol",
+        "Carol",
         "white",
         "fish"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "orange",
         "cat"
       ]
     ],
-    "steps": 15
+    "steps": 7,
+    "forward_check_steps": 6,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-079": {
     "headers": [
@@ -2271,24 +2505,27 @@
     "grid": [
       [
         "1",
-        "judy",
+        "Judy",
         "orange",
         "dog"
       ],
       [
         "2",
-        "unknown_name_2",
+        "",
         "yellow",
         "fish"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "purple",
         "turtle"
       ]
     ],
-    "steps": 11
+    "steps": 7,
+    "forward_check_steps": 6,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-080": {
     "headers": [
@@ -2300,24 +2537,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
-        "green",
-        "turtle"
-      ],
-      [
-        "2",
-        "niaj",
+        "Niaj",
         "white",
         "fish"
       ],
       [
-        "3",
-        "judy",
+        "2",
+        "Judy",
         "orange",
         "dog"
+      ],
+      [
+        "3",
+        "",
+        "green",
+        "turtle"
       ]
     ],
-    "steps": 18
+    "steps": 5,
+    "forward_check_steps": 4,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-081": {
     "headers": [
@@ -2329,24 +2569,27 @@
     "grid": [
       [
         "1",
-        "mallory",
+        "Mallory",
         "yellow",
-        "hamster"
-      ],
-      [
-        "2",
-        "grace",
-        "orange",
         "bird"
       ],
       [
+        "2",
+        "Grace",
+        "orange",
+        "hamster"
+      ],
+      [
         "3",
-        "niaj",
+        "Niaj",
         "red",
         "fish"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-082": {
     "headers": [
@@ -2358,24 +2601,27 @@
     "grid": [
       [
         "1",
-        "eve",
-        "blue",
-        "turtle"
+        "David",
+        "red",
+        "rabbit"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "green",
         "bird"
       ],
       [
         "3",
-        "david",
-        "red",
-        "rabbit"
+        "Eve",
+        "blue",
+        "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-083": {
     "headers": [
@@ -2387,24 +2633,27 @@
     "grid": [
       [
         "1",
-        "eve",
+        "Eve",
         "yellow",
-        "rabbit"
-      ],
-      [
-        "2",
-        "unknown_name_1",
-        "orange",
         "dog"
       ],
       [
-        "3",
-        "frank",
-        "green",
+        "2",
+        "",
+        "orange",
         "fish"
+      ],
+      [
+        "3",
+        "Frank",
+        "green",
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-084": {
     "headers": [
@@ -2416,24 +2665,27 @@
     "grid": [
       [
         "1",
-        "david",
+        "Mallory",
         "orange",
-        "hamster"
+        "rabbit"
       ],
       [
         "2",
-        "mallory",
+        "",
         "white",
         "cat"
       ],
       [
         "3",
-        "unknown_name_1",
+        "David",
         "purple",
-        "rabbit"
+        "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 3
   },
   "test-3x3-085": {
     "headers": [
@@ -2445,24 +2697,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "Bob",
         "purple",
         "bird"
       ],
       [
         "2",
-        "bob",
+        "",
         "white",
         "cat"
       ],
       [
         "3",
-        "unknown_name_2",
+        "",
         "orange",
         "fish"
       ]
     ],
-    "steps": 9
+    "steps": 7,
+    "forward_check_steps": 5,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-086": {
     "headers": [
@@ -2474,24 +2729,27 @@
     "grid": [
       [
         "1",
-        "heidi",
+        "Heidi",
         "orange",
-        "turtle"
-      ],
-      [
-        "2",
-        "frank",
-        "purple",
         "bird"
       ],
       [
+        "2",
+        "Frank",
+        "purple",
+        "turtle"
+      ],
+      [
         "3",
-        "ivan",
+        "Ivan",
         "blue",
         "cat"
       ]
     ],
-    "steps": 13
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-087": {
     "headers": [
@@ -2503,24 +2761,27 @@
     "grid": [
       [
         "1",
-        "david",
+        "David",
         "blue",
         "rabbit"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "yellow",
-        "hamster"
+        "cat"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "red",
-        "cat"
+        "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-088": {
     "headers": [
@@ -2532,24 +2793,27 @@
     "grid": [
       [
         "1",
-        "eve",
+        "Eve",
         "purple",
         "bird"
       ],
       [
         "2",
-        "unknown_name_1",
+        "",
         "orange",
         "fish"
       ],
       [
         "3",
-        "judy",
+        "Judy",
         "green",
         "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-089": {
     "headers": [
@@ -2561,24 +2825,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_2",
+        "",
         "orange",
         "rabbit"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "green",
         "fish"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "yellow",
         "dog"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-090": {
     "headers": [
@@ -2590,24 +2857,27 @@
     "grid": [
       [
         "1",
-        "carol",
-        "white",
+        "Carol",
+        "orange",
         "dog"
       ],
       [
         "2",
-        "eve",
-        "orange",
-        "bird"
+        "Bob",
+        "purple",
+        "cat"
       ],
       [
         "3",
-        "bob",
-        "purple",
-        "cat"
+        "Eve",
+        "white",
+        "bird"
       ]
     ],
-    "steps": 12
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 4
   },
   "test-3x3-091": {
     "headers": [
@@ -2619,24 +2889,27 @@
     "grid": [
       [
         "1",
-        "niaj",
+        "Niaj",
         "orange",
         "hamster"
       ],
       [
         "2",
-        "eve",
+        "Eve",
         "white",
         "cat"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "red",
         "dog"
       ]
     ],
-    "steps": 26
+    "steps": 5,
+    "forward_check_steps": 5,
+    "decision_steps": 0,
+    "num_solutions": 1
   },
   "test-3x3-092": {
     "headers": [
@@ -2648,24 +2921,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
+        "",
         "yellow",
-        "rabbit"
+        "cat"
       ],
       [
         "2",
-        "eve",
+        "Eve",
         "white",
         "fish"
       ],
       [
         "3",
-        "alice",
+        "Alice",
         "green",
-        "cat"
+        "rabbit"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-093": {
     "headers": [
@@ -2677,24 +2953,27 @@
     "grid": [
       [
         "1",
-        "eve",
-        "white",
-        "bird"
-      ],
-      [
-        "2",
-        "alice",
+        "Alice",
         "green",
         "hamster"
       ],
       [
+        "2",
+        "Eve",
+        "white",
+        "bird"
+      ],
+      [
         "3",
-        "ivan",
+        "Ivan",
         "purple",
         "turtle"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 4,
+    "decision_steps": 2,
+    "num_solutions": 6
   },
   "test-3x3-094": {
     "headers": [
@@ -2706,24 +2985,27 @@
     "grid": [
       [
         "1",
-        "niaj",
+        "Niaj",
         "green",
-        "rabbit"
-      ],
-      [
-        "2",
-        "carol",
-        "white",
         "fish"
       ],
       [
+        "2",
+        "Carol",
+        "white",
+        "rabbit"
+      ],
+      [
         "3",
-        "frank",
+        "Frank",
         "red",
         "cat"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-095": {
     "headers": [
@@ -2735,24 +3017,27 @@
     "grid": [
       [
         "1",
-        "judy",
-        "purple",
-        "bird"
+        "Grace",
+        "red",
+        "fish"
       ],
       [
         "2",
-        "niaj",
+        "Niaj",
         "white",
         "cat"
       ],
       [
         "3",
-        "grace",
-        "red",
-        "fish"
+        "Judy",
+        "purple",
+        "bird"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-096": {
     "headers": [
@@ -2764,24 +3049,27 @@
     "grid": [
       [
         "1",
-        "heidi",
+        "Heidi",
         "yellow",
-        "hamster"
+        "dog"
       ],
       [
         "2",
-        "grace",
+        "Grace",
         "purple",
         "fish"
       ],
       [
         "3",
-        "niaj",
+        "Niaj",
         "blue",
-        "dog"
+        "hamster"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-097": {
     "headers": [
@@ -2793,24 +3081,27 @@
     "grid": [
       [
         "1",
-        "bob",
+        "Bob",
         "purple",
         "turtle"
       ],
       [
         "2",
-        "david",
+        "David",
         "green",
         "fish"
       ],
       [
         "3",
-        "unknown_name_1",
+        "",
         "yellow",
         "rabbit"
       ]
     ],
-    "steps": 10
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-098": {
     "headers": [
@@ -2822,24 +3113,27 @@
     "grid": [
       [
         "1",
-        "unknown_name_2",
-        "purple",
-        "cat"
-      ],
-      [
-        "2",
-        "unknown_name_1",
+        "",
         "orange",
         "bird"
       ],
       [
+        "2",
+        "",
+        "purple",
+        "cat"
+      ],
+      [
         "3",
-        "niaj",
+        "Niaj",
         "red",
         "hamster"
       ]
     ],
-    "steps": 9
+    "steps": 6,
+    "forward_check_steps": 3,
+    "decision_steps": 3,
+    "num_solutions": 8
   },
   "test-3x3-099": {
     "headers": [
@@ -2851,24 +3145,27 @@
     "grid": [
       [
         "1",
-        "david",
+        "David",
         "yellow",
         "rabbit"
       ],
       [
         "2",
-        "judy",
+        "Judy",
         "red",
         "dog"
       ],
       [
         "3",
-        "heidi",
+        "Heidi",
         "blue",
         "turtle"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   },
   "test-3x3-100": {
     "headers": [
@@ -2880,23 +3177,26 @@
     "grid": [
       [
         "1",
-        "unknown_name_1",
-        "purple",
+        "Grace",
+        "green",
         "fish"
       ],
       [
         "2",
-        "bob",
+        "Bob",
         "orange",
         "rabbit"
       ],
       [
         "3",
-        "grace",
-        "green",
+        "",
+        "purple",
         "dog"
       ]
     ],
-    "steps": 11
+    "steps": 6,
+    "forward_check_steps": 5,
+    "decision_steps": 1,
+    "num_solutions": 2
   }
 }
