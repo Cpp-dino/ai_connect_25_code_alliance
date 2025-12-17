@@ -1,0 +1,2902 @@
+{
+  "test-3x3-001": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "orange",
+        "turtle"
+      ],
+      [
+        "2",
+        "mallory",
+        "blue",
+        "cat"
+      ],
+      [
+        "3",
+        "alice",
+        "green",
+        "dog"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-002": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "blue",
+        "dog"
+      ],
+      [
+        "2",
+        "niaj",
+        "red",
+        "fish"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "bird"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-003": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "purple",
+        "hamster"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "orange",
+        "rabbit"
+      ],
+      [
+        "3",
+        "mallory",
+        "green",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-004": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "white",
+        "rabbit"
+      ],
+      [
+        "2",
+        "ivan",
+        "red",
+        "turtle"
+      ],
+      [
+        "3",
+        "heidi",
+        "orange",
+        "cat"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-005": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "ivan",
+        "blue",
+        "fish"
+      ],
+      [
+        "2",
+        "mallory",
+        "white",
+        "turtle"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "green",
+        "cat"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-006": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "purple",
+        "rabbit"
+      ],
+      [
+        "2",
+        "mallory",
+        "white",
+        "dog"
+      ],
+      [
+        "3",
+        "grace",
+        "yellow",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-007": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "red",
+        "cat"
+      ],
+      [
+        "2",
+        "bob",
+        "yellow",
+        "turtle"
+      ],
+      [
+        "3",
+        "heidi",
+        "blue",
+        "dog"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-008": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "yellow",
+        "fish"
+      ],
+      [
+        "2",
+        "grace",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "3",
+        "eve",
+        "white",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-009": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "white",
+        "rabbit"
+      ],
+      [
+        "2",
+        "bob",
+        "purple",
+        "fish"
+      ],
+      [
+        "3",
+        "judy",
+        "orange",
+        "bird"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-010": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "red",
+        "rabbit"
+      ],
+      [
+        "2",
+        "ivan",
+        "orange",
+        "dog"
+      ],
+      [
+        "3",
+        "mallory",
+        "green",
+        "bird"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-011": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "blue",
+        "cat"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "red",
+        "fish"
+      ],
+      [
+        "3",
+        "niaj",
+        "purple",
+        "turtle"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-012": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "yellow",
+        "dog"
+      ],
+      [
+        "2",
+        "niaj",
+        "blue",
+        "bird"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "turtle"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-013": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "frank",
+        "orange",
+        "bird"
+      ],
+      [
+        "2",
+        "grace",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "3",
+        "bob",
+        "purple",
+        "dog"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-014": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "2",
+        "ivan",
+        "red",
+        "turtle"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "fish"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-015": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "heidi",
+        "orange",
+        "hamster"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "purple",
+        "bird"
+      ],
+      [
+        "3",
+        "niaj",
+        "white",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-016": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "purple",
+        "hamster"
+      ],
+      [
+        "2",
+        "mallory",
+        "blue",
+        "cat"
+      ],
+      [
+        "3",
+        "grace",
+        "yellow",
+        "dog"
+      ]
+    ],
+    "steps": 13
+  },
+  "test-3x3-017": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "red",
+        "cat"
+      ],
+      [
+        "2",
+        "mallory",
+        "white",
+        "rabbit"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-018": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_2",
+        "yellow",
+        "bird"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "green",
+        "turtle"
+      ],
+      [
+        "3",
+        "carol",
+        "purple",
+        "rabbit"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-019": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "orange",
+        "hamster"
+      ],
+      [
+        "2",
+        "bob",
+        "yellow",
+        "fish"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "green",
+        "cat"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-020": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "green",
+        "turtle"
+      ],
+      [
+        "2",
+        "bob",
+        "purple",
+        "hamster"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "yellow",
+        "rabbit"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-021": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "judy",
+        "red",
+        "cat"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "blue",
+        "bird"
+      ],
+      [
+        "3",
+        "eve",
+        "purple",
+        "turtle"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-022": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "purple",
+        "bird"
+      ],
+      [
+        "2",
+        "judy",
+        "green",
+        "dog"
+      ],
+      [
+        "3",
+        "bob",
+        "white",
+        "cat"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-023": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "white",
+        "dog"
+      ],
+      [
+        "2",
+        "eve",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "3",
+        "david",
+        "orange",
+        "hamster"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-024": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "frank",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "red",
+        "fish"
+      ],
+      [
+        "3",
+        "judy",
+        "orange",
+        "cat"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-025": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "red",
+        "hamster"
+      ],
+      [
+        "2",
+        "ivan",
+        "blue",
+        "bird"
+      ],
+      [
+        "3",
+        "heidi",
+        "orange",
+        "dog"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-026": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "ivan",
+        "green",
+        "dog"
+      ],
+      [
+        "2",
+        "bob",
+        "red",
+        "cat"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "yellow",
+        "rabbit"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-027": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "frank",
+        "white",
+        "hamster"
+      ],
+      [
+        "2",
+        "ivan",
+        "purple",
+        "bird"
+      ],
+      [
+        "3",
+        "niaj",
+        "yellow",
+        "cat"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-028": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "yellow",
+        "rabbit"
+      ],
+      [
+        "2",
+        "heidi",
+        "purple",
+        "dog"
+      ],
+      [
+        "3",
+        "frank",
+        "orange",
+        "bird"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-029": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "orange",
+        "dog"
+      ],
+      [
+        "2",
+        "ivan",
+        "purple",
+        "cat"
+      ],
+      [
+        "3",
+        "grace",
+        "green",
+        "turtle"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-030": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "purple",
+        "turtle"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "yellow",
+        "bird"
+      ],
+      [
+        "3",
+        "bob",
+        "green",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-031": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "green",
+        "rabbit"
+      ],
+      [
+        "2",
+        "grace",
+        "white",
+        "fish"
+      ],
+      [
+        "3",
+        "niaj",
+        "purple",
+        "bird"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-032": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "mallory",
+        "yellow",
+        "fish"
+      ],
+      [
+        "2",
+        "frank",
+        "green",
+        "dog"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "rabbit"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-033": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "red",
+        "fish"
+      ],
+      [
+        "2",
+        "heidi",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "green",
+        "bird"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-034": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "blue",
+        "cat"
+      ],
+      [
+        "2",
+        "carol",
+        "red",
+        "fish"
+      ],
+      [
+        "3",
+        "bob",
+        "green",
+        "turtle"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-035": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "niaj",
+        "red",
+        "cat"
+      ],
+      [
+        "2",
+        "heidi",
+        "blue",
+        "dog"
+      ],
+      [
+        "3",
+        "bob",
+        "purple",
+        "turtle"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-036": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "purple",
+        "rabbit"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "white",
+        "bird"
+      ],
+      [
+        "3",
+        "ivan",
+        "orange",
+        "dog"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-037": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "purple",
+        "dog"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "yellow",
+        "turtle"
+      ],
+      [
+        "3",
+        "alice",
+        "orange",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-038": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "purple",
+        "fish"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "blue",
+        "bird"
+      ],
+      [
+        "3",
+        "frank",
+        "orange",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-039": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "white",
+        "dog"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "yellow",
+        "bird"
+      ],
+      [
+        "3",
+        "judy",
+        "orange",
+        "hamster"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-040": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "orange",
+        "fish"
+      ],
+      [
+        "2",
+        "mallory",
+        "white",
+        "rabbit"
+      ],
+      [
+        "3",
+        "bob",
+        "yellow",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-041": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "yellow",
+        "cat"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "blue",
+        "dog"
+      ],
+      [
+        "3",
+        "judy",
+        "purple",
+        "fish"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-042": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "frank",
+        "purple",
+        "bird"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "red",
+        "hamster"
+      ],
+      [
+        "3",
+        "grace",
+        "green",
+        "fish"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-043": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "niaj",
+        "orange",
+        "bird"
+      ],
+      [
+        "2",
+        "carol",
+        "yellow",
+        "cat"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "red",
+        "hamster"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-044": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "green",
+        "dog"
+      ],
+      [
+        "2",
+        "carol",
+        "yellow",
+        "turtle"
+      ],
+      [
+        "3",
+        "bob",
+        "purple",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-045": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "purple",
+        "turtle"
+      ],
+      [
+        "2",
+        "bob",
+        "green",
+        "rabbit"
+      ],
+      [
+        "3",
+        "alice",
+        "white",
+        "fish"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-046": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "orange",
+        "rabbit"
+      ],
+      [
+        "2",
+        "frank",
+        "purple",
+        "turtle"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "white",
+        "fish"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-047": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "red",
+        "dog"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "blue",
+        "cat"
+      ],
+      [
+        "3",
+        "bob",
+        "green",
+        "turtle"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-048": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "judy",
+        "white",
+        "bird"
+      ],
+      [
+        "2",
+        "grace",
+        "purple",
+        "dog"
+      ],
+      [
+        "3",
+        "bob",
+        "green",
+        "turtle"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-049": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "green",
+        "hamster"
+      ],
+      [
+        "2",
+        "bob",
+        "orange",
+        "fish"
+      ],
+      [
+        "3",
+        "alice",
+        "blue",
+        "bird"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-050": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "blue",
+        "dog"
+      ],
+      [
+        "2",
+        "carol",
+        "red",
+        "rabbit"
+      ],
+      [
+        "3",
+        "niaj",
+        "orange",
+        "bird"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-051": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "frank",
+        "purple",
+        "cat"
+      ],
+      [
+        "2",
+        "carol",
+        "yellow",
+        "bird"
+      ],
+      [
+        "3",
+        "bob",
+        "white",
+        "fish"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-052": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "niaj",
+        "orange",
+        "bird"
+      ],
+      [
+        "2",
+        "carol",
+        "green",
+        "rabbit"
+      ],
+      [
+        "3",
+        "judy",
+        "purple",
+        "fish"
+      ]
+    ],
+    "steps": 14
+  },
+  "test-3x3-053": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "white",
+        "rabbit"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "orange",
+        "hamster"
+      ],
+      [
+        "3",
+        "judy",
+        "blue",
+        "bird"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-054": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "white",
+        "cat"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "purple",
+        "fish"
+      ],
+      [
+        "3",
+        "alice",
+        "yellow",
+        "turtle"
+      ]
+    ],
+    "steps": 13
+  },
+  "test-3x3-055": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "white",
+        "rabbit"
+      ],
+      [
+        "2",
+        "bob",
+        "blue",
+        "cat"
+      ],
+      [
+        "3",
+        "grace",
+        "purple",
+        "bird"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-056": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "orange",
+        "fish"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "white",
+        "hamster"
+      ],
+      [
+        "3",
+        "unknown_name_2",
+        "red",
+        "bird"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-057": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "ivan",
+        "purple",
+        "cat"
+      ],
+      [
+        "2",
+        "frank",
+        "blue",
+        "fish"
+      ],
+      [
+        "3",
+        "heidi",
+        "yellow",
+        "hamster"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-058": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "yellow",
+        "rabbit"
+      ],
+      [
+        "2",
+        "bob",
+        "orange",
+        "cat"
+      ],
+      [
+        "3",
+        "frank",
+        "blue",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-059": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "red",
+        "dog"
+      ],
+      [
+        "2",
+        "eve",
+        "white",
+        "fish"
+      ],
+      [
+        "3",
+        "mallory",
+        "blue",
+        "turtle"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-060": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "heidi",
+        "red",
+        "rabbit"
+      ],
+      [
+        "2",
+        "niaj",
+        "green",
+        "turtle"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "bird"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-061": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "blue",
+        "turtle"
+      ],
+      [
+        "2",
+        "grace",
+        "red",
+        "rabbit"
+      ],
+      [
+        "3",
+        "ivan",
+        "orange",
+        "bird"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-062": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "purple",
+        "hamster"
+      ],
+      [
+        "2",
+        "ivan",
+        "orange",
+        "dog"
+      ],
+      [
+        "3",
+        "heidi",
+        "green",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-063": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "blue",
+        "hamster"
+      ],
+      [
+        "2",
+        "grace",
+        "yellow",
+        "rabbit"
+      ],
+      [
+        "3",
+        "mallory",
+        "orange",
+        "turtle"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-064": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "red",
+        "hamster"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "orange",
+        "fish"
+      ],
+      [
+        "3",
+        "david",
+        "green",
+        "dog"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-065": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_2",
+        "purple",
+        "rabbit"
+      ],
+      [
+        "2",
+        "niaj",
+        "yellow",
+        "bird"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "red",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-066": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_2",
+        "orange",
+        "bird"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "green",
+        "dog"
+      ],
+      [
+        "3",
+        "bob",
+        "purple",
+        "hamster"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-067": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "heidi",
+        "orange",
+        "hamster"
+      ],
+      [
+        "2",
+        "frank",
+        "blue",
+        "dog"
+      ],
+      [
+        "3",
+        "bob",
+        "green",
+        "fish"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-068": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "red",
+        "hamster"
+      ],
+      [
+        "2",
+        "ivan",
+        "white",
+        "turtle"
+      ],
+      [
+        "3",
+        "alice",
+        "orange",
+        "dog"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-069": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "yellow",
+        "fish"
+      ],
+      [
+        "2",
+        "frank",
+        "red",
+        "hamster"
+      ],
+      [
+        "3",
+        "grace",
+        "blue",
+        "cat"
+      ]
+    ],
+    "steps": 13
+  },
+  "test-3x3-070": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "white",
+        "bird"
+      ],
+      [
+        "2",
+        "mallory",
+        "purple",
+        "dog"
+      ],
+      [
+        "3",
+        "bob",
+        "red",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-071": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "orange",
+        "turtle"
+      ],
+      [
+        "2",
+        "judy",
+        "yellow",
+        "bird"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "red",
+        "fish"
+      ]
+    ],
+    "steps": 13
+  },
+  "test-3x3-072": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "alice",
+        "yellow",
+        "fish"
+      ],
+      [
+        "2",
+        "unknown_name_2",
+        "white",
+        "rabbit"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "red",
+        "cat"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-073": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "orange",
+        "fish"
+      ],
+      [
+        "2",
+        "judy",
+        "blue",
+        "cat"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "green",
+        "rabbit"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-074": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "2",
+        "mallory",
+        "green",
+        "bird"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "orange",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-075": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "grace",
+        "red",
+        "rabbit"
+      ],
+      [
+        "2",
+        "frank",
+        "blue",
+        "cat"
+      ],
+      [
+        "3",
+        "bob",
+        "white",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-076": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "orange",
+        "turtle"
+      ],
+      [
+        "2",
+        "frank",
+        "red",
+        "dog"
+      ],
+      [
+        "3",
+        "eve",
+        "white",
+        "bird"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-077": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "judy",
+        "red",
+        "turtle"
+      ],
+      [
+        "2",
+        "eve",
+        "green",
+        "bird"
+      ],
+      [
+        "3",
+        "bob",
+        "purple",
+        "cat"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-078": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "ivan",
+        "green",
+        "hamster"
+      ],
+      [
+        "2",
+        "carol",
+        "white",
+        "fish"
+      ],
+      [
+        "3",
+        "heidi",
+        "orange",
+        "cat"
+      ]
+    ],
+    "steps": 15
+  },
+  "test-3x3-079": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "judy",
+        "orange",
+        "dog"
+      ],
+      [
+        "2",
+        "unknown_name_2",
+        "yellow",
+        "fish"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "purple",
+        "turtle"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-080": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "green",
+        "turtle"
+      ],
+      [
+        "2",
+        "niaj",
+        "white",
+        "fish"
+      ],
+      [
+        "3",
+        "judy",
+        "orange",
+        "dog"
+      ]
+    ],
+    "steps": 18
+  },
+  "test-3x3-081": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "mallory",
+        "yellow",
+        "hamster"
+      ],
+      [
+        "2",
+        "grace",
+        "orange",
+        "bird"
+      ],
+      [
+        "3",
+        "niaj",
+        "red",
+        "fish"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-082": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "blue",
+        "turtle"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "green",
+        "bird"
+      ],
+      [
+        "3",
+        "david",
+        "red",
+        "rabbit"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-083": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "yellow",
+        "rabbit"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "orange",
+        "dog"
+      ],
+      [
+        "3",
+        "frank",
+        "green",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-084": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "orange",
+        "hamster"
+      ],
+      [
+        "2",
+        "mallory",
+        "white",
+        "cat"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "purple",
+        "rabbit"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-085": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "purple",
+        "bird"
+      ],
+      [
+        "2",
+        "bob",
+        "white",
+        "cat"
+      ],
+      [
+        "3",
+        "unknown_name_2",
+        "orange",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-086": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "heidi",
+        "orange",
+        "turtle"
+      ],
+      [
+        "2",
+        "frank",
+        "purple",
+        "bird"
+      ],
+      [
+        "3",
+        "ivan",
+        "blue",
+        "cat"
+      ]
+    ],
+    "steps": 13
+  },
+  "test-3x3-087": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "blue",
+        "rabbit"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "yellow",
+        "hamster"
+      ],
+      [
+        "3",
+        "alice",
+        "red",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-088": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "purple",
+        "bird"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "orange",
+        "fish"
+      ],
+      [
+        "3",
+        "judy",
+        "green",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-089": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_2",
+        "orange",
+        "rabbit"
+      ],
+      [
+        "2",
+        "bob",
+        "green",
+        "fish"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "yellow",
+        "dog"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-090": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "carol",
+        "white",
+        "dog"
+      ],
+      [
+        "2",
+        "eve",
+        "orange",
+        "bird"
+      ],
+      [
+        "3",
+        "bob",
+        "purple",
+        "cat"
+      ]
+    ],
+    "steps": 12
+  },
+  "test-3x3-091": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "niaj",
+        "orange",
+        "hamster"
+      ],
+      [
+        "2",
+        "eve",
+        "white",
+        "cat"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "red",
+        "dog"
+      ]
+    ],
+    "steps": 26
+  },
+  "test-3x3-092": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "yellow",
+        "rabbit"
+      ],
+      [
+        "2",
+        "eve",
+        "white",
+        "fish"
+      ],
+      [
+        "3",
+        "alice",
+        "green",
+        "cat"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-093": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "eve",
+        "white",
+        "bird"
+      ],
+      [
+        "2",
+        "alice",
+        "green",
+        "hamster"
+      ],
+      [
+        "3",
+        "ivan",
+        "purple",
+        "turtle"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-094": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "niaj",
+        "green",
+        "rabbit"
+      ],
+      [
+        "2",
+        "carol",
+        "white",
+        "fish"
+      ],
+      [
+        "3",
+        "frank",
+        "red",
+        "cat"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-095": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "judy",
+        "purple",
+        "bird"
+      ],
+      [
+        "2",
+        "niaj",
+        "white",
+        "cat"
+      ],
+      [
+        "3",
+        "grace",
+        "red",
+        "fish"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-096": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "heidi",
+        "yellow",
+        "hamster"
+      ],
+      [
+        "2",
+        "grace",
+        "purple",
+        "fish"
+      ],
+      [
+        "3",
+        "niaj",
+        "blue",
+        "dog"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-097": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "bob",
+        "purple",
+        "turtle"
+      ],
+      [
+        "2",
+        "david",
+        "green",
+        "fish"
+      ],
+      [
+        "3",
+        "unknown_name_1",
+        "yellow",
+        "rabbit"
+      ]
+    ],
+    "steps": 10
+  },
+  "test-3x3-098": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_2",
+        "purple",
+        "cat"
+      ],
+      [
+        "2",
+        "unknown_name_1",
+        "orange",
+        "bird"
+      ],
+      [
+        "3",
+        "niaj",
+        "red",
+        "hamster"
+      ]
+    ],
+    "steps": 9
+  },
+  "test-3x3-099": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "david",
+        "yellow",
+        "rabbit"
+      ],
+      [
+        "2",
+        "judy",
+        "red",
+        "dog"
+      ],
+      [
+        "3",
+        "heidi",
+        "blue",
+        "turtle"
+      ]
+    ],
+    "steps": 11
+  },
+  "test-3x3-100": {
+    "headers": [
+      "House",
+      "Name",
+      "Color",
+      "Pet"
+    ],
+    "grid": [
+      [
+        "1",
+        "unknown_name_1",
+        "purple",
+        "fish"
+      ],
+      [
+        "2",
+        "bob",
+        "orange",
+        "rabbit"
+      ],
+      [
+        "3",
+        "grace",
+        "green",
+        "dog"
+      ]
+    ],
+    "steps": 11
+  }
+}
