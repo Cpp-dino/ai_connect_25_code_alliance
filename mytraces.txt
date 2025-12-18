@@ -1,0 +1,1618 @@
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'orange'}
+CSP is inconsistant with House1_color --> blue
+CSP is inconsistant with House1_color --> green
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House2_color with domain {'blue', 'green'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House2_pet with domain {'dog', 'cat'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+Selected unassigned var House1_pet with domain {'rabbit', 'hamster'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'hamster'}
+assigned House2_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'red'}
+assigned House1_color --> white.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House1_pet with domain {'rabbit', 'cat', 'turtle'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'cat', 'turtle'}
+assigned House2_pet --> cat.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'green', 'blue'}
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'green', 'blue'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'blue'}
+assigned House3_color --> blue.
+Selected unassigned var House1_pet with domain {'fish', 'turtle', 'cat'}
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'turtle', 'cat'}
+assigned House2_pet --> turtle.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit', 'dog', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'dog', 'cat'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'red', 'yellow'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'red', 'yellow'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'dog', 'turtle', 'cat'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_pet with domain {'turtle', 'cat'}
+assigned House2_pet --> turtle.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'blue', 'yellow'}
+assigned House1_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit', 'hamster'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_color with domain {'blue', 'yellow'}
+assigned House2_color --> blue.
+Selected unassigned var House2_pet with domain {'hamster'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House2_pet with domain {'bird', 'fish'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'red'}
+assigned House1_color --> green.
+Selected unassigned var House1_pet with domain {'bird'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'orange', 'red'}
+assigned House2_color --> orange.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+backtracked
+backtracked
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'cat'}
+assigned House1_pet --> cat.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'yellow'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'orange', 'yellow'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'turtle'}
+CSP is inconsistant with House1_pet --> bird
+assigned House1_pet --> dog.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'orange'}
+CSP is inconsistant with House1_color --> purple
+CSP is inconsistant with House1_color --> blue
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'bird'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House2_pet with domain {'dog', 'rabbit'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'rabbit'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House2_pet with domain {'fish', 'turtle'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+Selected unassigned var House1_pet with domain {'bird', 'fish'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'hamster'}
+assigned House1_pet --> hamster.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House2_pet with domain {'dog', 'cat'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'red'}
+assigned House1_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'yellow'}
+assigned House1_color --> purple.
+backtracked
+assigned House1_color --> green.
+backtracked
+assigned House1_color --> yellow.
+Selected unassigned var House1_pet with domain {'bird'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House2_pet with domain {'rabbit', 'turtle'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'yellow'}
+CSP is inconsistant with House1_color --> green
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+Selected unassigned var House1_pet with domain {'hamster'}
+assigned House1_pet --> hamster.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'yellow'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> green.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'rabbit', 'hamster', 'turtle'}
+assigned House1_pet --> rabbit.
+backtracked
+assigned House1_pet --> hamster.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'red'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+backtracked
+backtracked
+backtracked
+assigned House1_color --> red.
+Selected unassigned var House1_pet with domain {'cat'}
+assigned House1_pet --> cat.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+solved in 10 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'green'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'white'}
+assigned House3_color --> white.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'white'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'rabbit', 'hamster'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'fish', 'cat'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'red'}
+CSP is inconsistant with House1_color --> blue
+CSP is inconsistant with House1_color --> orange
+assigned House1_color --> red.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'hamster'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'dog', 'hamster'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'red', 'yellow'}
+assigned House1_color --> green.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+backtracked
+backtracked
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'bird', 'hamster', 'cat'}
+assigned House1_pet --> bird.
+backtracked
+assigned House1_pet --> hamster.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 9 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'orange', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'orange', 'yellow'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'rabbit', 'dog', 'bird'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'dog', 'bird'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'cat'}
+assigned House1_pet --> cat.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'green'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'bird', 'rabbit'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'white', 'green'}
+assigned House2_color --> white.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'yellow'}
+assigned House1_color --> green.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'red'}
+CSP is inconsistant with House1_color --> blue
+assigned House1_color --> green.
+backtracked
+assigned House1_color --> red.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'bird'}
+assigned House1_pet --> rabbit.
+backtracked
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'rabbit'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 9 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'turtle', 'cat'}
+assigned House1_pet --> turtle.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House2_color with domain {'blue', 'red'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House2_pet with domain {'dog', 'cat'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+Selected unassigned var House1_pet with domain {'bird', 'rabbit'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'rabbit'}
+assigned House2_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'orange', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House1_pet with domain {'dog', 'cat', 'turtle'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'fish', 'hamster'}
+assigned House1_pet --> fish.
+Selected unassigned var House2_color with domain {'blue', 'orange'}
+assigned House2_color --> blue.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'yellow'}
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'orange', 'yellow'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'hamster'}
+assigned House1_pet --> bird.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'yellow'}
+assigned House1_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_color with domain {'orange', 'yellow'}
+assigned House2_color --> orange.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'yellow'}
+CSP is inconsistant with House1_color --> purple
+CSP is inconsistant with House1_color --> blue
+assigned House1_color --> yellow.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House1_pet with domain {'fish', 'dog', 'cat'}
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'dog', 'cat'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'green', 'red'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'bird', 'fish', 'hamster'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'fish', 'hamster'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'orange', 'red', 'yellow'}
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'bird'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House2_pet with domain {'hamster', 'cat'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'green', 'yellow'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'dog', 'hamster', 'turtle'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'green'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'fish', 'turtle'}
+assigned House1_pet --> fish.
+Selected unassigned var House2_color with domain {'white', 'green'}
+assigned House2_color --> white.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> white.
+backtracked
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'white'}
+assigned House3_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'turtle'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'fish', 'turtle'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'dog', 'cat', 'turtle'}
+assigned House1_pet --> dog.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'green'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'purple', 'green'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'turtle'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'orange'}
+assigned House1_color --> blue.
+backtracked
+assigned House1_color --> green.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'blue'}
+assigned House3_color --> blue.
+Selected unassigned var House1_pet with domain {'bird', 'fish', 'hamster'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House1_pet with domain {'rabbit', 'dog', 'bird'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'dog', 'bird'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'white', 'yellow'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'bird', 'fish', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'fish', 'cat'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+CSP is inconsistant with House1_color --> purple
+CSP is inconsistant with House1_color --> green
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'purple', 'green'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'bird'}
+CSP is inconsistant with House1_pet --> rabbit
+CSP is inconsistant with House1_pet --> fish
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'rabbit', 'fish'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 10 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'blue', 'orange'}
+assigned House1_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_color with domain {'blue', 'orange'}
+assigned House2_color --> blue.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'yellow'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'fish', 'cat', 'turtle'}
+assigned House1_pet --> fish.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'white'}
+CSP is inconsistant with House1_color --> purple
+CSP is inconsistant with House1_color --> blue
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'purple', 'blue'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'blue'}
+assigned House3_color --> blue.
+Selected unassigned var House1_pet with domain {'bird', 'rabbit', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'rabbit', 'cat'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'red'}
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'bird', 'fish', 'hamster'}
+CSP is inconsistant with House1_pet --> bird
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'hamster'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'hamster', 'cat'}
+assigned House1_pet --> hamster.
+Selected unassigned var House2_color with domain {'blue', 'yellow'}
+assigned House2_color --> blue.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'yellow'}
+assigned House1_color --> blue.
+backtracked
+assigned House1_color --> orange.
+Selected unassigned var House3_color with domain {'blue'}
+assigned House3_color --> blue.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House1_pet with domain {'rabbit', 'hamster', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'hamster', 'cat'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'red', 'white'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'red', 'white'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'white'}
+assigned House3_color --> white.
+Selected unassigned var House1_pet with domain {'fish', 'dog', 'turtle'}
+CSP is inconsistant with House1_pet --> fish
+assigned House1_pet --> dog.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'red'}
+CSP is inconsistant with House1_color --> green
+CSP is inconsistant with House1_color --> orange
+assigned House1_color --> red.
+Selected unassigned var House1_pet with domain {'rabbit', 'bird'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House2_pet with domain {'rabbit'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'hamster'}
+assigned House1_pet --> hamster.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+Selected unassigned var House2_color with domain {'green', 'orange'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'orange', 'yellow'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'hamster'}
+assigned House1_pet --> hamster.
+Selected unassigned var House2_color with domain {'orange', 'yellow'}
+assigned House2_color --> orange.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'red'}
+CSP is inconsistant with House1_color --> green
+CSP is inconsistant with House1_color --> orange
+assigned House1_color --> red.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'fish', 'dog', 'hamster'}
+assigned House1_pet --> fish.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+Selected unassigned var House2_pet with domain {'hamster'}
+assigned House2_pet --> hamster.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'red', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'bird', 'rabbit', 'hamster'}
+assigned House1_pet --> bird.
+backtracked
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> green.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+backtracked
+backtracked
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'bird'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 9 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'orange'}
+CSP is inconsistant with House1_color --> blue
+CSP is inconsistant with House1_color --> green
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'blue', 'green'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'fish', 'dog', 'hamster'}
+CSP is inconsistant with House1_pet --> fish
+CSP is inconsistant with House1_pet --> dog
+assigned House1_pet --> hamster.
+Selected unassigned var House2_pet with domain {'fish', 'dog'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+solved in 10 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'red'}
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'white'}
+assigned House3_color --> white.
+Selected unassigned var House2_pet with domain {'hamster', 'turtle'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'red', 'yellow'}
+assigned House1_color --> blue.
+Selected unassigned var House2_color with domain {'red', 'yellow'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House1_pet with domain {'fish', 'hamster', 'cat'}
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'hamster'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'orange', 'red', 'yellow'}
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House2_color with domain {'red', 'yellow'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House2_pet with domain {'bird', 'fish'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'red', 'yellow'}
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> red.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'white'}
+assigned House3_color --> white.
+Selected unassigned var House1_pet with domain {'rabbit', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'orange'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'cat'}
+assigned House1_pet --> cat.
+backtracked
+backtracked
+assigned House1_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'orange'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'bird', 'rabbit'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'green', 'orange'}
+assigned House2_color --> green.
+Selected unassigned var House2_pet with domain {'rabbit'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'blue', 'red'}
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'blue', 'red'}
+assigned House2_color --> blue.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'red'}
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'white'}
+assigned House3_color --> white.
+Selected unassigned var House1_pet with domain {'bird', 'dog', 'turtle'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'dog', 'turtle'}
+assigned House2_pet --> dog.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'green', 'red'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'bird', 'turtle', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'green', 'orange'}
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> green.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House1_pet with domain {'fish', 'cat', 'hamster'}
+CSP is inconsistant with House1_pet --> fish
+CSP is inconsistant with House1_pet --> cat
+assigned House1_pet --> hamster.
+Selected unassigned var House2_pet with domain {'fish', 'cat'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 9 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'orange', 'yellow'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'green', 'orange'}
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+Selected unassigned var House1_pet with domain {'fish', 'dog'}
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'orange', 'red', 'yellow'}
+assigned House1_color --> orange.
+Selected unassigned var House1_pet with domain {'bird', 'hamster'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_color with domain {'red', 'yellow'}
+assigned House2_color --> red.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'green', 'red'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House2_pet with domain {'bird'}
+assigned House2_pet --> bird.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'yellow'}
+CSP is inconsistant with House1_color --> green
+assigned House1_color --> orange.
+backtracked
+assigned House1_color --> yellow.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'dog'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'fish', 'dog'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+CSP is inconsistant with House1_color --> purple
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'purple'}
+assigned House3_color --> purple.
+Selected unassigned var House1_pet with domain {'rabbit', 'hamster', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House1_pet with domain {'bird'}
+assigned House1_pet --> bird.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'blue'}
+assigned House2_color --> blue.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+backtracked
+backtracked
+backtracked
+CSP is inconsistant with House1_color --> blue
+assigned House1_color --> orange.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House3_color with domain {'blue'}
+assigned House3_color --> blue.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+Selected unassigned var House1_pet with domain {'bird', 'turtle'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'turtle'}
+assigned House2_pet --> turtle.
+solved in 10 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'red', 'yellow'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'rabbit'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_color with domain {'yellow'}
+assigned House2_color --> yellow.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House2_pet with domain {'hamster', 'cat'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'bird', 'fish', 'hamster'}
+assigned House1_pet --> bird.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'green', 'orange', 'yellow'}
+assigned House1_color --> green.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House2_pet with domain {'rabbit'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+Selected unassigned var House1_pet with domain {'fish'}
+assigned House1_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'orange'}
+assigned House1_color --> purple.
+backtracked
+assigned House1_color --> white.
+Selected unassigned var House1_pet with domain {'dog'}
+assigned House1_pet --> dog.
+Selected unassigned var House2_color with domain {'purple', 'orange'}
+assigned House2_color --> purple.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House3_pet with domain {'bird'}
+assigned House3_pet --> bird.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'orange', 'red'}
+assigned House1_color --> white.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'orange'}
+assigned House3_color --> orange.
+Selected unassigned var House1_pet with domain {'dog', 'hamster', 'cat'}
+assigned House1_pet --> dog.
+backtracked
+assigned House1_pet --> hamster.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'green', 'yellow'}
+CSP is inconsistant with House1_color --> white
+CSP is inconsistant with House1_color --> green
+assigned House1_color --> yellow.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'fish', 'cat'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'green'}
+assigned House1_color --> purple.
+Selected unassigned var House1_pet with domain {'turtle'}
+assigned House1_pet --> turtle.
+Selected unassigned var House2_color with domain {'white', 'green'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House2_pet with domain {'bird', 'hamster'}
+assigned House2_pet --> bird.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'white', 'green', 'red'}
+CSP is inconsistant with House1_color --> white
+assigned House1_color --> green.
+Selected unassigned var House2_color with domain {'white'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'cat'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'fish', 'cat'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 7 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'white', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'white', 'red'}
+assigned House2_color --> white.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House1_pet with domain {'bird', 'fish', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'cat'}
+assigned House2_pet --> cat.
+Selected unassigned var House3_pet with domain {'fish'}
+assigned House3_pet --> fish.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'blue', 'yellow'}
+CSP is inconsistant with House1_color --> purple
+assigned House1_color --> blue.
+backtracked
+assigned House1_color --> yellow.
+Selected unassigned var House2_color with domain {'purple'}
+assigned House2_color --> purple.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_color with domain {'blue'}
+assigned House3_color --> blue.
+Selected unassigned var House1_pet with domain {'dog', 'hamster'}
+assigned House1_pet --> dog.
+Selected unassigned var House3_pet with domain {'hamster'}
+assigned House3_pet --> hamster.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'yellow'}
+assigned House1_color --> purple.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House2_color with domain {'green'}
+assigned House2_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'turtle'}
+CSP is inconsistant with House1_pet --> rabbit
+CSP is inconsistant with House1_pet --> fish
+assigned House1_pet --> turtle.
+Selected unassigned var House2_pet with domain {'fish'}
+assigned House2_pet --> fish.
+Selected unassigned var House3_pet with domain {'rabbit'}
+assigned House3_pet --> rabbit.
+solved in 8 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'orange', 'red'}
+assigned House1_color --> purple.
+Selected unassigned var House3_color with domain {'red'}
+assigned House3_color --> red.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House1_pet with domain {'bird', 'hamster', 'cat'}
+assigned House1_pet --> bird.
+Selected unassigned var House2_pet with domain {'hamster', 'cat'}
+assigned House2_pet --> hamster.
+Selected unassigned var House3_pet with domain {'cat'}
+assigned House3_pet --> cat.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'blue', 'red', 'yellow'}
+assigned House1_color --> blue.
+Selected unassigned var House1_pet with domain {'rabbit', 'turtle'}
+assigned House1_pet --> rabbit.
+Selected unassigned var House2_pet with domain {'dog'}
+assigned House2_pet --> dog.
+Selected unassigned var House2_color with domain {'red'}
+assigned House2_color --> red.
+Selected unassigned var House3_color with domain {'yellow'}
+assigned House3_color --> yellow.
+Selected unassigned var House3_pet with domain {'turtle'}
+assigned House3_pet --> turtle.
+solved in 6 steps.
+
+created new CSPSolver
+Selected unassigned var House1_color with domain {'purple', 'green', 'orange'}
+assigned House1_color --> purple.
+Selected unassigned var House2_color with domain {'orange'}
+assigned House2_color --> orange.
+Selected unassigned var House3_color with domain {'green'}
+assigned House3_color --> green.
+Selected unassigned var House1_pet with domain {'rabbit', 'fish', 'dog'}
+assigned House1_pet --> rabbit.
+backtracked
+assigned House1_pet --> fish.
+Selected unassigned var House2_pet with domain {'rabbit'}
+assigned House2_pet --> rabbit.
+Selected unassigned var House3_pet with domain {'dog'}
+assigned House3_pet --> dog.
+solved in 7 steps.
